@@ -1,5 +1,5 @@
-*papa armand*
+# papa-armand
 Primer repo creado en Github
 
-*Mi descripción*
+## Mi descripción
 Este es un repo de soyArmand, creado solo para el curso
